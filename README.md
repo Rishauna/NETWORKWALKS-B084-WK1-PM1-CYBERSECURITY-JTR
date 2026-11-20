@@ -86,4 +86,42 @@ Your PDF file will open.
 - Issue: Encountered difficulties getting John the Ripper installed and ready for use.
 - Solution: Reviewed the installation requirements and followed the appropriate setup instructions to ensure the tool was properly configured.
 
+---
+## Lessons Learned
+Through this project, I gained practical knowledge and a better understanding of password cracking techniques using NetworkWalks Tools and John the Ripper (JTR).
+
+The key lessons learned include:
+- Understanding Password Hashing: Learned how passwords are converted into hashes and why hashing is important for password storage.
   
+- Using Cybersecurity Tools: Gained hands-on experience working with NetworkWalks Password Cracking Tools and John the Ripper (JTR).
+  
+- Command-Line Operations: Improved my ability to navigate directories, execute commands, and troubleshoot command-line errors.
+  
+- Password Hash Identification: Developed an understanding of different password hash formats and their importance when working with password-cracking tools.
+  
+- Troubleshooting Skills: Improved my problem-solving skills by resolving file extraction, firewall interference, and configuration issues.
+  
+- Password Security Awareness: Learned how weak passwords can be vulnerable and why strong, unique passwords are essential.
+  
+- Practical Experience: Gained confidence working with cybersecurity tools in a controlled lab environment.  
+
+---
+## Conclusion
+This project provided valuable hands-on experience exploring password cracking using PASSWORD CRACKING WITH NETWORKWALKS TOOLS and John the Ripper (JTR).
+
+Throughout the project, I gained a better understanding of password hashing, hash identification, and how password-cracking tools operate. I also developed practical command-line skills and improved my troubleshooting abilities by resolving challenges encountered during the setup and execution process.
+
+Despite some initial difficulties, I was able to work through the issues and gain practical experience using the tools. Overall, this project strengthened my technical knowledge, problem-solving abilities, and understanding of password security, marking another important step in my cybersecurity learning journey.
+
+---
+## 📌 Security and Ethical Considerations
+
+This environment is intended for authorized cybersecurity learning and testing.
+
+Cybersecurity tools should only be used against systems and networks for which permission has been granted.
+
+## 🖋️ ****Author****
+
+Rishauna Gunning     
+
+Cybersecurity Trainee B084
