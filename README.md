@@ -72,3 +72,18 @@ Your PDF file will open.
 ![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Your_Flag1.png)
 
 ---
+## Issues Encountered and Solutions
+
+1. Firewall Interference During ZIP File Extraction
+- Issue: Some files were missing after extracting the ZIP file because the security protection was interfering with the extraction process.
+- Solution: I investigated the issue and adjusted the security settings to allow the required files to be extracted successfully.
+  
+2. Incomplete ZIP File Extraction
+- Issue: Some required files were not available in the extracted folder, preventing me from proceeding with the setup.
+- Solution: I reviewed the extraction process and extracted the ZIP file again to ensure all required files were available.
+  
+3. John the Ripper Installation Issues
+- Issue: Encountered difficulties getting John the Ripper installed and ready for use.
+- Solution: Reviewed the installation requirements and followed the appropriate setup instructions to ensure the tool was properly configured.
+
+  
