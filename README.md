@@ -35,3 +35,37 @@ The main objectives of this project are to:
 
 ##PASSWORD CRACKING WITH NETWORKWALKS TOOLS
 
+STEP 1
+Download the encrypted PDF file (My Locked PDF1.pdf) to your laptop from the lab page:
+https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
+
+STEP 2
+Open the Networkwalks Hash Calculator in your web browser:
+https://networkwalks.com/hash-calculator/
+
+STEP 3
+Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash
+value that starts with $pdf$...
+
+STEP 4
+Copy the full hash value.
+Note: Copy the complete hash starting from $pdf$. Do not miss any part of it.
+
+STEP 5
+Open the Networkwalks Password Cracker in your web browser:
+https://networkwalks.com/password-cracker/
+
+STEP 6
+Paste the hash value into the Password Cracker and start the attack. The tool will try different
+passwords until it finds a match.
+
+STEP 7
+Wait for the tool to finish. 
+
+STEP 8
+Open the locked PDF file and enter the cracked password.
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Passwor_crack.png)
+
+STEP 9
+Your PDF file will open. 
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Your_Flag1.png)
