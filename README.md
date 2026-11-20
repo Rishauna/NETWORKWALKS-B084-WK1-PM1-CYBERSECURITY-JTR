@@ -21,7 +21,6 @@ The main objectives of this project are to:
 ## PASSWORD CRACKING WITH JTR 
 
 1. Download John the Ripper from official website on your windows PC:
-
 ![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](setup_file_and_install_Johnny.png)
 
 2. Starting password attack:
@@ -31,9 +30,8 @@ The main objectives of this project are to:
 ![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Password.png)
 
 4. Password cracked successfully:
-
 ![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Congratulation.png)
 
-5. 
-6. 
-7. 
+
+##PASSWORD CRACKING WITH NETWORKWALKS TOOLS
+
