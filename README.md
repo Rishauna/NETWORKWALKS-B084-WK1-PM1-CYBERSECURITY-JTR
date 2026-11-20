@@ -32,8 +32,8 @@ The main objectives of this project are to:
 4. Password cracked successfully:
 ![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Congratulation.png)
 
-
-##PASSWORD CRACKING WITH NETWORKWALKS TOOLS
+---
+## PASSWORD CRACKING WITH NETWORKWALKS TOOLS
 
 STEP 1
 Download the encrypted PDF file (My Locked PDF1.pdf) to your laptop from the lab page:
@@ -69,3 +69,5 @@ Open the locked PDF file and enter the cracked password.
 STEP 9
 Your PDF file will open. 
 ![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Your_Flag1.png)
+
+---
